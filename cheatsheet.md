@@ -1,10 +1,12 @@
 # TMUX cheatsheet
 
-Leader key: `C-b`
+~~Default leader key: `C-b`~~
+
+Leader key: `C-s`
 
 List key bindings: `Leader ?`
 
-Command mode: `C-b :`
+Command mode: `Leader :`
 
 Install plugins: `Leader I`
 
@@ -20,6 +22,7 @@ Switch session: `Leader s`
 Rename session: `Command mode: rename-session <new-name>`
 
 New session: `tumx new -s <session-name>` or `Command mode: new`
+
 ## Windows
 New window: `Leader c`
 
@@ -36,7 +39,7 @@ New horizontal pane: `Leader %`
 
 New vertical pane: `Leader "`
 
-Navigate between panes: `Leader <up>, <down>, <left>, <right>` or `C-h, C-j, C-k, C-l`
+Navigate between panes: ~~`Leader <up>, <down>, <left>, <right>`~~ or `C-h, C-j, C-k, C-l`
 
 Goto pane: `Leader q`
 
