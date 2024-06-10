@@ -26,9 +26,9 @@ New session: `tumx new -s <session-name>` or `Command mode: new`
 ## Windows
 New window: `Leader c`
 
-Goto next window: `Leader n`
+Goto next window: `Leader n` or `M-K` or `M-L`
 
-Goto previous window: `Leader p`
+Goto previous window: `Leader p` or `M-J` or `M-H`
 
 Goto n window: `Leader <n>`
 
