@@ -52,3 +52,8 @@ Zoom out pane: `Command mode: resize-pane -Z`
 Pane to window: `Leader !`
 
 Kill pane: `Leader x`
+
+## tmux-yank 
+Enter yank mode: `Leader [`
+
+Select text: `C-v <space>`, or use the mouse, or use vi bindings for visual mode
